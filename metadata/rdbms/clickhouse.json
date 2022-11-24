@@ -1,0 +1,27 @@
+{
+  "rdbms": {
+    "CLICKHOUSE": {
+      "databaseName": "",
+      "pluginId": "CLICKHOUSE",
+      "accessType": 0,
+      "hostname": "localhost",
+      "password": "Encrypted ",
+      "port": "18123",
+      "pluginName": "ClickHouse",
+      "attributes": {
+        "SUPPORTS_TIMESTAMP_DATA_TYPE": "Y",
+        "QUOTE_ALL_FIELDS": "N",
+        "EXTRA_OPTION_CLICKHOUSE.nullAsDefault": "2",
+        "SUPPORTS_BOOLEAN_DATA_TYPE": "N",
+        "FORCE_IDENTIFIERS_TO_LOWERCASE": "N",
+        "PRESERVE_RESERVED_WORD_CASE": "Y",
+        "SQL_CONNECT": "",
+        "FORCE_IDENTIFIERS_TO_UPPERCASE": "N",
+        "PREFERRED_SCHEMA_NAME": ""
+      },
+      "manualUrl": "",
+      "username": ""
+    }
+  },
+  "name": "clickhouse"
+}
