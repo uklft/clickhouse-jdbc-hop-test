@@ -11,7 +11,7 @@
       "attributes": {
         "SUPPORTS_TIMESTAMP_DATA_TYPE": "Y",
         "QUOTE_ALL_FIELDS": "N",
-        "EXTRA_OPTION_CLICKHOUSE.nullAsDefault": "2",
+        "EXTRA_OPTION_CLICKHOUSE.nullAsDefault": "0",
         "SUPPORTS_BOOLEAN_DATA_TYPE": "N",
         "FORCE_IDENTIFIERS_TO_LOWERCASE": "N",
         "PRESERVE_RESERVED_WORD_CASE": "Y",
